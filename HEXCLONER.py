@@ -155,7 +155,7 @@ for xd in range(10000):
     ugen.append(uaku2)
     
 
-def HEX WAVE(uid):
+def HEXWAVE(uid):
     if len(uid)==15:
         if uid[:10] in ['1000000000']       :HEX WAVE = ' (*-*) 2009'
         elif uid[:9] in ['100000000']       :HEX WAVE = '√ 2009'
